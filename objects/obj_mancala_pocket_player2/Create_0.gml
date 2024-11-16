@@ -1,0 +1,1 @@
+global.score_player2 = 0; 

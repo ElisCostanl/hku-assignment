@@ -1,0 +1,1 @@
+score_player1 = 0;

@@ -1,0 +1,5 @@
+with (other)
+{
+	instance_change(obj_patolli_pawn_green_in_play, true)
+}
+
